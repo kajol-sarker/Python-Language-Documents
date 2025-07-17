@@ -1,5 +1,6 @@
+
 from PyPDF2 import PdfMerger
-allpdf = ['1.pdf', '2.pdf']
+allpdf = ["E:\My Project\\Python Language\\project1\\1.pdf", "E:\\My Project\\Python Language\\project1\\2.pdf"]
 merger = PdfMerger()
 
 for newpdf in allpdf:
