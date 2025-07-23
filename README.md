@@ -22,4 +22,4 @@ Matplotlib, NumPy, SciPy, Pandas, Scikit-learn, Flask,TensorFlow,Beautiful Soup,
 pip install file_name
 
 
-Indentation maintain korte hoy, mean line formate
+Indentation maintain korte hoy, mean line formate# KMeans-Manhattan-Distance
